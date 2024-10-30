@@ -15,6 +15,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 * Nodemon; e
 * VSCode.
 
+## 📝 Pré-Requisitos
+
+1. Ter o Postgres e NodeJS instalados no computador.
+
 ## 🚀 Como executar o projeto
 
 ```bash
@@ -24,6 +28,9 @@ $ git clone https://github.com/Gustavo-Cruz-Pinheiro/users-technologies.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd users-technologies
+
+# Instale as dependências com
+$ npm i
 
 # Execute o arquivo comando para executar o projeto
 $ npm run dev
