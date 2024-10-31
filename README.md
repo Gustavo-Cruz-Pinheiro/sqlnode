@@ -32,7 +32,7 @@ $ cd users-technologies
 # Instale as dependências com
 $ npm i
 
-# Execute o arquivo comando para executar o projeto
+# Execute o comando para executar o projeto
 $ npm run dev
 
 ```
